@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BuildingLink.App.props" />
+</Project>

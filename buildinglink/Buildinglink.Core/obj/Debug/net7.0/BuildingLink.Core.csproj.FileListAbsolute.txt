@@ -1,0 +1,12 @@
+C:\Users\Mohamed Nouh\source\repos\buildinglink\Buildinglink.Core\bin\Debug\net7.0\BuildingLink.Core.deps.json
+C:\Users\Mohamed Nouh\source\repos\buildinglink\Buildinglink.Core\bin\Debug\net7.0\BuildingLink.Core.dll
+C:\Users\Mohamed Nouh\source\repos\buildinglink\Buildinglink.Core\bin\Debug\net7.0\BuildingLink.Core.pdb
+C:\Users\Mohamed Nouh\source\repos\buildinglink\Buildinglink.Core\obj\Debug\net7.0\BuildingLink.Core.csproj.AssemblyReference.cache
+C:\Users\Mohamed Nouh\source\repos\buildinglink\Buildinglink.Core\obj\Debug\net7.0\BuildingLink.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Nouh\source\repos\buildinglink\Buildinglink.Core\obj\Debug\net7.0\BuildingLink.Core.AssemblyInfoInputs.cache
+C:\Users\Mohamed Nouh\source\repos\buildinglink\Buildinglink.Core\obj\Debug\net7.0\BuildingLink.Core.AssemblyInfo.cs
+C:\Users\Mohamed Nouh\source\repos\buildinglink\Buildinglink.Core\obj\Debug\net7.0\BuildingLink.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Nouh\source\repos\buildinglink\Buildinglink.Core\obj\Debug\net7.0\BuildingLink.Core.dll
+C:\Users\Mohamed Nouh\source\repos\buildinglink\Buildinglink.Core\obj\Debug\net7.0\refint\BuildingLink.Core.dll
+C:\Users\Mohamed Nouh\source\repos\buildinglink\Buildinglink.Core\obj\Debug\net7.0\BuildingLink.Core.pdb
+C:\Users\Mohamed Nouh\source\repos\buildinglink\Buildinglink.Core\obj\Debug\net7.0\ref\BuildingLink.Core.dll
